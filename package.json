@@ -1,0 +1,23 @@
+{
+  "name": "project-cv",
+  "version": "1.0.0",
+  "description": "cv landing page ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sora-san-df/Project-CV.git"
+  },
+  "keywords": [
+    "javaScript",
+    "API's"
+  ],
+  "author": "Diego Fernando Mera Largo cloudinthesky@outlook.es",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sora-san-df/Project-CV/issues"
+  },
+  "homepage": "https://github.com/sora-san-df/Project-CV#readme"
+}
