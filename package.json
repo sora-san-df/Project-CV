@@ -4,7 +4,7 @@
   "description": "cv landing page ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/sora-san-df/Project-CV#readme",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "node-fetch": "^3.2.10"
   },
   "type": "module"
